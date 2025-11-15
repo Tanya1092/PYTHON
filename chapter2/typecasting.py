@@ -20,3 +20,4 @@ print (int(a)+int(b))
 c = 1.9
 d = 18
 print(c+d)
+print(type(c))
